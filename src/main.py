@@ -5,7 +5,7 @@ from mask_detector import MaskDetector
 
 
 '''
-face detection code example
+face detection code example11
 '''
 
 if __name__ == "__main__":
