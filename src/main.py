@@ -3,6 +3,11 @@ import cv2
 from face_detector import FaceDetector
 from mask_detector import MaskDetector
 
+
+'''
+face detection code example
+'''
+
 if __name__ == "__main__":
     face_model = './face-detection-adas-0001.xml'
     face_model_bin = './face-detection-adas-0001.bin'
